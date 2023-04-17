@@ -16,11 +16,11 @@ function Footer() {
       </div>
       <div className="mt-3">
         <address>
-          <p>
+          {/* <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum
             incidunt architecto soluta laboriosam, perspiciatis, aspernatur
             officiis esse.
-          </p>
+          </p> */}
         </address>
         <div className="text-lg">
           <div className="flex justify-center items-center mb-3">
